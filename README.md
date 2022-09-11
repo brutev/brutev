@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vignesh, Software Development Engineer @InnovationIncubator
-- 👀 I’m interested in Python,Javascript,Flutter
-- 🌱 I’m currently learning  Flutter
+- 👀 I’m interested in Flutter,Java
+- 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on Open Source projects that interests me.
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/vigneshviji/)
 
