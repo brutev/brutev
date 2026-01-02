@@ -23,7 +23,7 @@ Focus on clear UI structure, testable business logic, and strong Git practices (
 
 
 🛠 Tech Stack
-Languages: Dart, Python, Java/C#, JavaScript (early), SQL.
+Languages: Dart, Python, JavaScript (early), SQL.
 Mobile: Flutter, widgets, layouts, navigation, Provider/Cubit state management, async/Streams.
 Backend (learning): Python (FastAPI / Flask style APIs), REST, DB access, basic Docker & deployment.
 Tools: Git & GitHub, GPG‑signed commits, GitHub Actions, VS Code/Android Studio, Postman/HTTP clients.
