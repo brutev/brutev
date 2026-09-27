@@ -1,38 +1,25 @@
-👋 Hey, I'm Vignesh
+I'm Vignesh
+Flutter dev from Chennai, building mobile apps. Actively learning backends, databases, and AI stuff.
 
+What I do:
 
-Flutter/Dart developer from Chennai, building real‑world mobile apps and leveling up into Python‑backed systems and APIs.
+Ship solid Flutter apps—clean architecture, proper state management, the works.
+Learning Python for backend APIs and databases.
+Getting into AI engineering—agents, RAG, LangChain/LangGraph, the whole thing.
 
+Tech I use:
 
+Dart & Flutter (my main thing)
+Python (learning)
+Databases & REST APIs
+Git, GitHub, VS Code
+Obsidian for notes
 
-​🧭 What I Do
-Build production-style Flutter apps (widgets, navigation, state management with Provider/Cubit, async, clean architecture).
+What I'm grinding:
 
-Write Python for scripting, automation, and exploring backend services and APIs.
-
-
-
-🚀 What I’m Learning Now
-Backend systems with Python: HTTP APIs, authentication, database access, and basic deployment.
-
-Core backend concepts: RESTful design, data modeling, caching, logging, and observability.
-
-Better project structure: separating domains, services, and infrastructure for clearer ownership and easier scaling.
-
-
-📌 Featured Projects
-📱 Pocket Financier (Flutter)
-Personal finance companion exploring spending, investing, and insights.
-
-
-🛠 Tech Stack
-Languages: Dart, Python, JavaScript (early), SQL.
-
-Mobile: Flutter
-
-Backend (learning): Python (FastAPI / Flask style APIs), REST, DB access, basic Docker & deployment.
-
-Tools: Git & GitHub, GPG‑signed commits, GitHub Actions, VS Code/Android Studio, Postman/HTTP clients.
+Backend fundamentals—APIs, databases, how stuff actually connects.
+AI/ML basics—LLMs, transformers, building with LangGraph.
+Building projects that tie it all together.
 
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/vigneshviji/)
 
